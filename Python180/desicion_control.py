@@ -1,0 +1,13 @@
+a="ABC"+"DSA"
+print(a)
+x=5
+print(int(x))
+print(float(x))
+print(chr(x))
+print(complex(x))
+print(bool(x))
+print(str(x))
+print(bin(x))
+print(hex(x))
+print(oct(x))
+print(chr(5))
